@@ -28,7 +28,7 @@
   This app was built using React on the front end, as well as a MySQL database, Node.js, Express.js, RESTful APIs, and Sequelize on the back end.
 
   ## Installation: 
-  Check out the website at: 
+  Check out the website at: https://still-stream-33667.herokuapp.com/
 
 
   ## License: 
