@@ -25,6 +25,7 @@
 
   ## Description: 
   RentIt is a website that allows users to list and rent products to each other for a set amount of days. Current rental categories are Outdoor Gear, Tools, Sports, Tech, Motorized Vehicles, Instruments, and For Kids. We plan to expand this application to allow for user messages and transactions in the near future.
+  This app was built using React on the front end, as well as a MySQL database, Node.js, Express.js, RESTful APIs, and Sequelize on the back end.
 
   ## Installation: 
   Check out the website at: 
